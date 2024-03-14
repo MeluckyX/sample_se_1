@@ -1,12 +1,27 @@
 {
     "ver":1.0,
     "se":{
-        "26":{"url":"https://your.domain.com/path/to/snd/res/pon_f.wav"},
-        "27":{"url":"https://your.domain.com/path/to/snd/res/pon_fffff.wav"},
-        "28":{"url":"https://your.domain.com/path/to/snd/res/kan_f.wav"},
-        "30":{"url":"https://your.domain.com/path/to/snd/res/chii_f.wav"},
-        "32":{"url":"https://your.domain.com/path/to/snd/res/reach_f.wav"},
-        "34":{"url":"https://your.domain.com/path/to/snd/res/ron_f.wav"},
-        "36":{"url":"https://your.domain.com/path/to/snd/res/tsumo_f.wav"}
+        "1":{"url":"https://github.com/MeluckyX/sample_se_1/blob/main/voice/SE_DORA.wav"},
+        "3":{"url":"https://github.com/MeluckyX/sample_se_1/blob/main/voice/SE_CLOCK.wav"},
+        "4":{"url":"https://github.com/MeluckyX/sample_se_1/blob/main/voice/SE_KACHI1.wav"},
+        "5":{"url":"https://github.com/MeluckyX/sample_se_1/blob/main/voice/SE_KACHI2.wav"},
+        "6":{"url":"https://github.com/MeluckyX/sample_se_1/blob/main/voice/SE_DA.wav"},
+        "7":{"url":"https://github.com/MeluckyX/sample_se_1/blob/main/voice/SE_TICK.wav"},
+        "8":{"url":"https://github.com/MeluckyX/sample_se_1/blob/main/voice/SE_NAKI.wav"},
+        "9":{"url":"https://github.com/MeluckyX/sample_se_1/blob/main/voice/SE_NUKI.wav"},
+        "10":{"url":"https://github.com/MeluckyX/sample_se_1/blob/main/voice/SE_AGARI.wav"},
+        "11":{"url":"https://github.com/MeluckyX/sample_se_1/blob/main/voice/SE_YAKU.wav"},
+        "25":{"url":"https://github.com/MeluckyX/sample_se_1/blob/main/voice/SE_PON.wav"},
+        "26":{"url":"https://github.com/MeluckyX/sample_se_1/blob/main/voice/SE_PON.wav"},
+        "27":{"url":"https://github.com/MeluckyX/sample_se_1/blob/main/voice/SE_KAN.wav"},
+        "28":{"url":"https://github.com/MeluckyX/sample_se_1/blob/main/voice/SE_KAN.wav"},
+        "29":{"url":"https://github.com/MeluckyX/sample_se_1/blob/main/voice/SE_CHII.wav"},
+        "30":{"url":"https://github.com/MeluckyX/sample_se_1/blob/main/voice/SE_CHII.wav"},
+        "31":{"url":"https://github.com/MeluckyX/sample_se_1/blob/main/voice/SE_REACH.wav"},
+        "32":{"url":"https://github.com/MeluckyX/sample_se_1/blob/main/voice/SE_REACH.wav"},
+        "33":{"url":"https://github.com/MeluckyX/sample_se_1/blob/main/voice/SE_RON.wav"},
+        "34":{"url":"https://github.com/MeluckyX/sample_se_1/blob/main/voice/SE_RON.wav"},
+        "35":{"url":"https://github.com/MeluckyX/sample_se_1/blob/main/voice/SE_TSUMO.wav"},
+        "36":{"url":"https://github.com/MeluckyX/sample_se_1/blob/main/voice/SE_TSUMO.wav"}
     }
 }
